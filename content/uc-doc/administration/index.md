@@ -21,6 +21,7 @@ All configurations are done via the [`wazo-confd` REST API](/documentation/api/c
 - [Interconnections](/uc-doc/administration/interconnections/interconnections)
 - [IVR](/uc-doc/administration/ivr/ivr)
 - [Music On Hold](/uc-doc/administration/music_on_hold)
+- [NAT](/uc-doc/administration/nat)
 - [Paging](/uc-doc/administration/paging)
 - [Parking](/uc-doc/administration/parking)
 - [Provisioning](/uc-doc/administration/provisioning/provisioning)
